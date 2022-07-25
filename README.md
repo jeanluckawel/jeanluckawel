@@ -2,7 +2,7 @@
 
 
 
-[![committers.top badge](https://user-badge.committers.top/congo_private/jeanluckawel.svg)](https://user-badge.committers.top/congo_private/jeanluckawel)
+[![committers.top badge](https://user-badge.committers.top/congo_private/jeanlucKawel.svg)](https://user-badge.committers.top/congo_private/jeanlucKawel)
 
 
 
