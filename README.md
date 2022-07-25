@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BabiMumba.BabiMumba)
 
-[![committers.top badge](https://user-badge.committers.top/congo_private/`jean luc kawel`.svg)](https://user-badge.committers.top/congo_private/`jean luc kawel`)
+[![committers.top badge](https://user-badge.committers.top/congo_private/jeanluckawel.svg)](https://user-badge.committers.top/congo_private/jeanluckawel)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BabiMumba.BabiMumba)
 
