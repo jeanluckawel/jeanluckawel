@@ -6,11 +6,11 @@
 
 
 # Hey! 👋 I'm Van! Nice to see you.
-
-[<img src="https://img.icons8.com/officel/240/000000/php-logo.png" alt="php" width="100">](https://developer.android.com/reference)
-[<img src="https://img.icons8.com/fluency/240/000000/laravel.png" alt="Laravel" width="100">](https://developer.android.com/reference)
-[<img src="https://img.icons8.com/color/240/000000/javascript--v1.png" alt="javascript" width="100">](https://developer.android.com/reference)
-
+<Hr>
+[<img src="https://img.icons8.com/officel/240/000000/php-logo.png" alt="php" width="50">](https://www.php.net)
+[<img src="https://img.icons8.com/fluency/240/000000/laravel.png" alt="Laravel" width="50">](https://laravel.com)
+[<img src="https://img.icons8.com/color/240/000000/javascript--v1.png" alt="javascript" width="50">](https://www.javascript.com)
+<hr>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanluckawel&count_private=true&theme=material-palenight&&include_all_commits=true&hide_border=true)
