@@ -6,12 +6,12 @@
 
 
 
+### Programming Languages 🌐
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring logo" width="24">](https://spring.io/) | [<img src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png" alt="nest logo" width="24">](https://nestjs.com/) | [<img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" alt="laravel logo" width="24">](https://laravel.com/) | [<img src="https://external-content.duckduckgo.com/ip3/codeigniter.com.ico" alt="codeigniter logo" width="24">](https://codeigniter.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django logo" width="32">](https://www.djangoproject.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="flask logo" width="32">](https://flask.palletsprojects.com/)
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="php logo" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript logo" width="24">](https://www.typescriptlang.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java logo" width="48">](https://docs.oracle.com/en/java/)
 |---|---|---|---|---|
-
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanluckawel&count_private=true&theme=material-palenight&&include_all_commits=true&hide_border=true)
