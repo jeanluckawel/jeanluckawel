@@ -1,6 +1,3 @@
-
-
-
 [![committers.top badge](https://user-badge.committers.top/congo_kinshasa/jeanlucKawel.svg)](https://user-badge.committers.top/congo_kinshasa/jeanlucKawel)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeanlucKawel&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -8,10 +5,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanlucKawel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br/>  
-
-
-
-
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=marienmupenda&&style=flat-square" align="center" />
