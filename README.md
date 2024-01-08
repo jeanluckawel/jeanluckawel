@@ -46,3 +46,64 @@
 </div>
 </td></tr></table>  
 <hr>
+
+
+
+<h1>Technology Reference Table</h1>
+
+<p>This document lists various technologies.</p>
+
+<h2>Programming Languages</h2>
+
+<table>
+    <tr>
+        <td><img src="image_link_python" alt="Python Logo"></td>
+        <td><img src="image_link_javascript" alt="JavaScript Logo"></td>
+        <td><img src="image_link_java" alt="Java Logo"></td>
+        <td><img src="image_link_php" alt="PHP Logo"></td>
+        <td><img src="image_link_kotlin" alt="Kotlin Logo"></td>
+    </tr>
+</table>
+
+<h2>Frameworks</h2>
+
+<table>
+    <tr>
+        <td><img src="image_link_django" alt="Django Logo"></td>
+        <td><img src="image_link_react" alt="React Logo"></td>
+        <td><img src="image_link_spring_boot" alt="Spring Boot Logo"></td>
+        <td><img src="image_link_laravel" alt="Laravel Logo"></td>
+    </tr>
+</table>
+
+<h2>Databases</h2>
+
+<table>
+    <tr>
+        <td><img src="image_link_postgresql" alt="PostgreSQL Logo"></td>
+        <td><img src="image_link_mysql" alt="MySQL Logo"></td>
+        <td><img src="image_link_sqlite" alt="SQLite Logo"></td>
+    </tr>
+</table>
+
+<h2>Server Providers</h2>
+
+<table>
+    <tr>
+        <td><img src="image_link_nameship" alt="Nameship Logo"></td>
+        <td><img src="image_link_ovh" alt="OVH Logo"></td>
+        <td><img src="image_link_combo" alt="Combo Logo"></td>
+    </tr>
+</table>
+
+<h2>Development Tools</h2>
+
+<table>
+    <tr>
+        <td><img src="image_link_git" alt="Git Logo"></td>
+        <td><img src="image_link_vscode" alt="VS Code Logo"></td>
+        <td><img src="image_link_jetbrains" alt="JetBrains Logo"></td>
+        <td><img src="image_link_docker" alt="Docker Logo"></td>
+        <td><img src="image_link_tensorflow" alt="TensorFlow Logo"></td>
+    </tr>
+</table>
