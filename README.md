@@ -22,88 +22,48 @@
   
   <table><tr><td valign="top" width="33%">
 
+# Technology Reference Table
 
+This document lists various technologies.
 
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-</div>
-</td><td valign="top" width="33%">
-### Backend  
-<div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>    
-</div>
-</td><td valign="top" width="33%">
-### tools 
-<div align="center">   
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-</td></tr></table>  
-<hr>
+## Programming Languages
 
+| Python | JavaScript | Java | PHP | Kotlin |
+|--------|------------|-----|-----|--------|
+| ![Python Logo](image_link_python) | ![JavaScript Logo](image_link_javascript) | ![Java Logo](image_link_java) | ![PHP Logo](image_link_php) | ![Kotlin Logo](image_link_kotlin) |
 
+## Frameworks
 
-<h1>Technology Reference Table</h1>
+| Django | React | Spring Boot | Laravel |
+|--------|-------|-------------|---------|
+| ![Django Logo](image_link_django) | ![React Logo](image_link_react) | ![Spring Boot Logo](image_link_spring_boot) | ![Laravel Logo](image_link_laravel) |
 
-<p>This document lists various technologies.</p>
+## Databases
 
-<h2>Programming Languages</h2>
+| PostgreSQL | MySQL | SQLite |
+|------------|-------|--------|
+| ![PostgreSQL Logo](image_link_postgresql) | ![MySQL Logo](image_link_mysql) | ![SQLite Logo](image_link_sqlite) |
 
-<table>
-    <tr>
-        <td><img src="image_link_python" alt="Python Logo"></td>
-        <td><img src="image_link_javascript" alt="JavaScript Logo"></td>
-        <td><img src="image_link_java" alt="Java Logo"></td>
-        <td><img src="image_link_php" alt="PHP Logo"></td>
-        <td><img src="image_link_kotlin" alt="Kotlin Logo"></td>
-    </tr>
-</table>
+## Server Providers
 
-<h2>Frameworks</h2>
+| Nameship | OVH | Combo |
+|----------|-----|-------|
+| ![Nameship Logo](image_link_nameship) | ![OVH Logo](image_link_ovh) | ![Combo Logo](image_link_combo) |
 
-<table>
-    <tr>
-        <td><img src="image_link_django" alt="Django Logo"></td>
-        <td><img src="image_link_react" alt="React Logo"></td>
-        <td><img src="image_link_spring_boot" alt="Spring Boot Logo"></td>
-        <td><img src="image_link_laravel" alt="Laravel Logo"></td>
-    </tr>
-</table>
+## Development Tools
 
-<h2>Databases</h2>
+| Git | VS Code | JetBrains | Docker | TensorFlow |
+|-----|---------|-----------|--------|------------|
+| ![Git Logo](image_link_git) | ![VS Code Logo](image_link_vscode) | ![JetBrains Logo](image_link_jetbrains) | ![Docker Logo](image_link_docker) | ![TensorFlow Logo](image_link_tensorflow) |
 
-<table>
-    <tr>
-        <td><img src="image_link_postgresql" alt="PostgreSQL Logo"></td>
-        <td><img src="image_link_mysql" alt="MySQL Logo"></td>
-        <td><img src="image_link_sqlite" alt="SQLite Logo"></td>
-    </tr>
-</table>
+*This document is a continuously evolving reference. Feel free to contribute by adding new technologies or improving existing descriptions.*
 
-<h2>Server Providers</h2>
+---
 
-<table>
-    <tr>
-        <td><img src="image_link_nameship" alt="Nameship Logo"></td>
-        <td><img src="image_link_ovh" alt="OVH Logo"></td>
-        <td><img src="image_link_combo" alt="Combo Logo"></td>
-    </tr>
-</table>
+### How to Contribute
 
-<h2>Development Tools</h2>
+1. Clone the repository.
+2. Add or modify information in the README.md file.
+3. Create a pull request.
 
-<table>
-    <tr>
-        <td><img src="image_link_git" alt="Git Logo"></td>
-        <td><img src="image_link_vscode" alt="VS Code Logo"></td>
-        <td><img src="image_link_jetbrains" alt="JetBrains Logo"></td>
-        <td><img src="image_link_docker" alt="Docker Logo"></td>
-        <td><img src="image_link_tensorflow" alt="TensorFlow Logo"></td>
-    </tr>
-</table>
+[License](LICENSE) | Contributors
