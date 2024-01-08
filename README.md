@@ -30,7 +30,7 @@ This document lists various technologies.
 
 | Python | JavaScript | Java | PHP | Kotlin |
 |--------|------------|-----|-----|--------|
-| ![Python Logo](image_link_python) | ![JavaScript Logo](image_link_javascript) | ![Java Logo](image_link_java) | ![PHP Logo](image_link_php) | ![Kotlin Logo](image_link_kotlin) |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt+"Python" height="40", width="40"/> | ![JavaScript Logo](image_link_javascript) | ![Java Logo](image_link_java) | ![PHP Logo](image_link_php) | ![Kotlin Logo](image_link_kotlin) |
 
 ## Frameworks
 
