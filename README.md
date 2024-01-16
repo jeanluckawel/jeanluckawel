@@ -6,7 +6,7 @@
 ### <div align="center">👋 Hi, I'm Jean Luc Kawel, a student with a passion for the world of programming. 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭I’m learning PHP language.
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
@@ -15,7 +15,8 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces
+- :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ail-blue?style=flat&logo=Gmail&logoColor=white)](jeanluckawel45@gmail.com).
   
 
 <br/>  
