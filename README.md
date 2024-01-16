@@ -3,20 +3,19 @@
 </div>  
   
 
-### <div align="center">👋 Hi, I'm Jean Luc Kawel, a student with a passion for the world of programming. 👨‍💻 </div>  
+### <div align="left">👋 Hi, I'm Jean Luc Kawel, a student with a passion for the world of programming. 👨‍💻 </div>  
   
-
-- 🔭I’m learning PHP language.
+- 🕸 Human | Software developer (PHP Laravel & Kotlin) | Web consultant
   
+- 🔭I’m learning PHP language.  
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
   
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
+- ⚡ I enjoy open source and sharing my knowledge.
 
-- ⚡ Fun fact: I use tabs over spaces
-- :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ail-blue?style=flat&logo=Gmail&logoColor=white)](jeanluckawel45@gmail.com).
+- ✉️  :mailbox: To discuss exciting projects or exchange ideas, contact me at  [![Gmail Badge](https://img.shields.io/badge/-ail-blue?style=flat&logo=Gmail&logoColor=white)](jeanluckawel45@gmail.com).
   
 
 <br/>  
@@ -90,6 +89,6 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeanluckawel&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
