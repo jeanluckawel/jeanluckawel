@@ -11,7 +11,7 @@
   
 - ⚡ I enjoy open source and sharing my knowledge.
 
-- ✉️  :mailbox: To discuss exciting projects or exchange ideas, contact me at  [![Gmail Badge](https://img.shields.io/badge/-ail-blue?style=flat&logo=Gmail&logoColor=white)](jeanluckawel45@gmail.com).
+- :mailbox: To discuss exciting projects or exchange ideas, contact me at  [![Gmail Badge](https://img.shields.io/badge/-ail-blue?style=flat&logo=Gmail&logoColor=white)](jeanluckawel45@gmail.com).
   
 
 <br/>  
