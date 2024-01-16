@@ -1,4 +1,5 @@
 👋 Hi, I'm Jean Luc Kawel, a student with a passion for the world of programming. <br>
+🔭 I’m learning PHP language. </br>
 ✉️ To discuss exciting projects or exchange ideas, contact me at jeanluckawel45@gmail.com.
 
 [![committers.top badge](https://user-badge.committers.top/congo_kinshasa/jeanlucKawel.svg)](https://user-badge.committers.top/congo_kinshasa/jeanlucKawel)
