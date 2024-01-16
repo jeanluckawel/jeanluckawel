@@ -1,3 +1,4 @@
+👋 Hi, I'm Jean Luc Kawel, a student with a passion for the world of programming.
 ✉️ To discuss exciting projects or exchange ideas, contact me at jeanluckawel45@gmail.com.
 
 [![committers.top badge](https://user-badge.committers.top/congo_kinshasa/jeanlucKawel.svg)](https://user-badge.committers.top/congo_kinshasa/jeanlucKawel)
