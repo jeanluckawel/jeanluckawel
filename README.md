@@ -1,38 +1,23 @@
-<hr>
-👨‍💻 About Me: </br>
-👋 Hi, I'm Jean Luc Kawel, a student with a passion for the world of programming. <br>
-🔭 I’m learning PHP language. </br>
-✉️ To discuss exciting projects or exchange ideas, contact me at jeanluckawel45@gmail.com.
-</hr>
-
-[![committers.top badge](https://user-badge.committers.top/congo_kinshasa/jeanlucKawel.svg)](https://user-badge.committers.top/congo_kinshasa/jeanlucKawel)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeanlucKawel&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanlucKawel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br/>  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=marienmupenda&&style=flat-square" align="center" />
-  <a href="https://user-badge.committers.top/congo_kinshasa_private/jeanluckawel">
-   <img src="https://user-badge.committers.top/congo_kinshasa_private/jeanluckawel.svg" align="center" />
-  </a>
-</div>
-<Hr>
-  <div style="display:flex; align-items:center;" >
-<img src="https://img.icons8.com/officel/240/000000/php-logo.png" alt="php" width="50">
-<img src="https://img.icons8.com/fluency/240/000000/laravel.png" alt="Laravel" width="50">
-<img src="https://img.icons8.com/color/240/000000/javascript--v1.png" alt="javascript" width="50">
-<img src="https://img.icons8.com/color/240/000000/python--v1.png" alt="javascript" width="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt+"C", width="50"/>
-  </div>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
   
-  <table><tr><td valign="top" width="33%">
 
+### <div align="center">👋 Hi, I'm Jean Luc Kawel, a student with a passion for the world of programming. 👨‍💻 </div>  
+  
 
- 
- 
- 
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+  
+
+- 🌱 I’m currently learning Hyperledger and Kubernetes  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
+  
+
 <br/>  
 
 
@@ -58,7 +43,7 @@
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-  <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -77,13 +62,33 @@
 <br/>  
 
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
----
+<br/>  
 
-### How to Contribute
 
-1. Clone the repository.
-2. Add or modify information in the README.md file.
-3. Create a pull request.
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-[License](LICENSE) | Contributors
+<br/>  
