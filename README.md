@@ -7,11 +7,7 @@
   
 - 🕸 Human | Software developer (PHP Laravel & Kotlin) | Web consultant
   
-- 🔭I’m learning PHP language.  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 🔭I’m learning PHP language.   
   
 - ⚡ I enjoy open source and sharing my knowledge.
 
