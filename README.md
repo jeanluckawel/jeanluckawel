@@ -12,7 +12,7 @@
   
 - 🕸 Human | Software developer (PHP Laravel & Kotlin) | Web consultant
   
-- 🔭I’m learning PHP language.
+- 🔭 I’m learning PHP language.
   
 - ⚡ I enjoy open source and sharing my knowledge.
 
