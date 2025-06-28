@@ -52,35 +52,22 @@
 
 ---
 
+
+
 ## 🌐 Connect with Me
 
-<div align="center">
+<p align="center">
+  <a href="mailto:jeanluckawel45@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" style="margin: 0 10px;" />
+  </a>
+  <a href="https://github.com/jeanluckawel" title="GitHub" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" style="margin: 0 10px;" />
+  </a>
+  <a href="https://linkedin.com/in/jeanluckawel" title="LinkedIn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" style="margin: 0 10px;" />
+  </a>
+</p>
 
-<a href="mailto:jeanluckawel45@gmail.com" target="_blank" title="Gmail">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" style="margin: 0 10px;" />
-</a>
-
-<a href="https://github.com/jeanluckawel" target="_blank" title="GitHub">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" style="margin: 0 10px;" />
-</a>
-
-<a href="https://t.me/jeanluckawel" target="_blank" title="Telegram">
-  <img src="https://skillicons.dev/icons?i=telegram" height="40" alt="Telegram" style="margin: 0 10px;" />
-</a>
-
-<a href="https://wa.me/243000000000" target="_blank" title="WhatsApp">
-  <img src="https://skillicons.dev/icons?i=whatsapp" height="40" alt="WhatsApp" style="margin: 0 10px;" />
-</a>
-
-<a href="https://linkedin.com/in/jeanluckawel" target="_blank" title="LinkedIn">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" style="margin: 0 10px;" />
-</a>
-
-<a href="https://jeanluckawel.dev" target="_blank" title="Portfolio">
-  <img src="https://skillicons.dev/icons?i=firefox" height="40" alt="Portfolio" style="margin: 0 10px;" />
-</a>
-
-</div>
 
 
 
