@@ -56,7 +56,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p >
   <a href="mailto:jeanluckawel45@gmail.com" title="Email">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" style="margin: 0 10px;" />
   </a>
