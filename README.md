@@ -54,31 +54,35 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="mailto:jeanluckawel45@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://github.com/jeanluckawel" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <a href="https://t.me/jeanluckawel" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  
-  <a href="https://wa.me/243000000000" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+## 🌐 Connect with Me
 
-  <a href="https://www.linkedin.com/in/jeanluckawel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<div align="center">
 
-  <a href="https://jeanluckawel.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
+<a href="mailto:jeanluckawel45@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+</a>
+
+<a href="https://github.com/jeanluckawel" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+</a>
+
+<a href="https://t.me/jeanluckawel" target="_blank">
+  <img src="https://skillicons.dev/icons?i=telegram" height="40" alt="Telegram" />
+</a>
+
+<a href="https://wa.me/243000000000" target="_blank">
+  <img src="https://skillicons.dev/icons?i=whatsapp" height="40" alt="WhatsApp" />
+</a>
+
+<a href="https://linkedin.com/in/jeanluckawel" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+</a>
+
+<a href="https://jeanluckawel.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=firefox" height="40" alt="Portfolio" />
+</a>
+
+</div>
 
 
 ---
