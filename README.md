@@ -54,35 +54,34 @@
 
 ## 🌐 Connect with Me
 
-## 🌐 Connect with Me
-
 <div align="center">
 
-<a href="mailto:jeanluckawel45@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+<a href="mailto:jeanluckawel45@gmail.com" target="_blank" title="Gmail">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" style="margin: 0 10px;" />
 </a>
 
-<a href="https://github.com/jeanluckawel" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+<a href="https://github.com/jeanluckawel" target="_blank" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" style="margin: 0 10px;" />
 </a>
 
-<a href="https://t.me/jeanluckawel" target="_blank">
-  <img src="https://skillicons.dev/icons?i=telegram" height="40" alt="Telegram" />
+<a href="https://t.me/jeanluckawel" target="_blank" title="Telegram">
+  <img src="https://skillicons.dev/icons?i=telegram" height="40" alt="Telegram" style="margin: 0 10px;" />
 </a>
 
-<a href="https://wa.me/243000000000" target="_blank">
-  <img src="https://skillicons.dev/icons?i=whatsapp" height="40" alt="WhatsApp" />
+<a href="https://wa.me/243000000000" target="_blank" title="WhatsApp">
+  <img src="https://skillicons.dev/icons?i=whatsapp" height="40" alt="WhatsApp" style="margin: 0 10px;" />
 </a>
 
-<a href="https://linkedin.com/in/jeanluckawel" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+<a href="https://linkedin.com/in/jeanluckawel" target="_blank" title="LinkedIn">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" style="margin: 0 10px;" />
 </a>
 
-<a href="https://jeanluckawel.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=firefox" height="40" alt="Portfolio" />
+<a href="https://jeanluckawel.dev" target="_blank" title="Portfolio">
+  <img src="https://skillicons.dev/icons?i=firefox" height="40" alt="Portfolio" style="margin: 0 10px;" />
 </a>
 
 </div>
+
 
 
 ---
