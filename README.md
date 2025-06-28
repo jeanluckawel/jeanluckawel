@@ -18,18 +18,28 @@
 
 ## 🧰 Tech Stack
 
-<div align="center">
+<table align="center">
+  <tr>
+    <th align="center">🧑‍🎨 Frontend</th>
+    <th align="center">🛠 Backend & Languages</th>
+    <th align="center">🧪 Tools & DevOps</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" /><br/>
+      HTML · CSS · JavaScript · Tailwind CSS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php,laravel,kotlin,java,python" /><br/>
+      PHP · Laravel · Kotlin · Java · Python
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" /><br/>
+      Git · GitHub · VS Code · Linux · Bash
+    </td>
+  </tr>
+</table>
 
-### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
-
-### 🔧 Backend & Languages  
-<img src="https://skillicons.dev/icons?i=php,laravel,kotlin,java,python" />
-
-### 🛠 Tools & DevOps  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
-
-</div>
 
 ---
 
